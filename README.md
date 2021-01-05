@@ -1,4 +1,5 @@
-[//]: # markdown cheatsheet https://res.cloudinary.com/practicaldev/image/fetch/s--2rTn_7XO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/5zhubbpov3m3ly9a1t9c.png
+<!-- markdown cheatsheet https://res.cloudinary.com/practicaldev/image/fetch/s--2rTn_7XO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/5zhubbpov3m3ly9a1t9c.png
+-->
 
 # Technical Documentation
 
@@ -53,10 +54,12 @@ app should be running on `localhost:5000` now.
 
 #### API
 All API Endpoints should be listed here.
+<!--
 [//]: # take a look at swagger to have it created automatically
 [//]: # https://kanoki.org/2020/07/18/python-api-documentation-using-flask-swagger/
 [//]: # https://editor.swagger.io/#/   -> so soll es ausschauen
 [//]: # https://dev.to/djiit/documenting-your-flask-powered-api-like-a-boss-9eo
+-->
 
 #### Libraries
 
