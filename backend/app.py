@@ -2,6 +2,7 @@ import os
 import sqlite3
 #import pandas as pd #pip install pandas
 #from sqlalchemy import create_engine
+#from sqlalchemy import sql alchemy
 from flask import Flask
 from flask import render_template
 from flask import request, url_for, flash, redirect
@@ -24,6 +25,7 @@ def get_post(post_id):
     if post is None:
         abort(404)
     return post
+
 
 # SQL Alchemy
 #def connect_db():
